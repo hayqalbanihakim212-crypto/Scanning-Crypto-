@@ -12,7 +12,7 @@
 
 > Aplikasi web untuk menganalisis dan menyaring aset kripto berdasarkan perspektif **halal**, **syubhat**, dan **haram** dalam Islam — didukung data realtime dari CoinGecko.
 
-### 🌐 [Lihat Demo Frontend →](https://hayqalbanihakim212-crypto.github.io/Scanning-Crypto-/)
+### 🌐 [Lihat Demo Frontend →](https://hayqalbanihakim212-crypto.github.io/Scanning-Crypto-/frontend/src/main.jsx)
 
 </div>
 
